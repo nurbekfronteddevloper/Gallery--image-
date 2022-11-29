@@ -28,6 +28,7 @@ section{
   align-items: center;
   background-color: #4c4e50;
   color: #fff;
+  clip-path: polygon(0 10%, 100% 1%, 100% 100%, 0 88%);
 
 }
 .tech-description h1 {
@@ -61,4 +62,7 @@ section{
   width: 80%;
   height: 50%;
 
+}
+img.tech-active{
+  opacity: 1;
 }
